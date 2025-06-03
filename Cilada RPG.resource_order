@@ -15,6 +15,12 @@
     {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
     {"name":"Sons","order":3,"path":"folders/Sons.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"attack","order":3,"path":"folders/Sprites/attack.yy",},
+    {"name":"idle","order":1,"path":"folders/Sprites/idle.yy",},
+    {"name":"walk","order":2,"path":"folders/Sprites/walk.yy",},
   ],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"cilada_idle_right_left","order":1,"path":"sprites/cilada_idle_right_left/cilada_idle_right_left.yy",},
+    {"name":"cilada_idle_back","order":2,"path":"sprites/cilada_idle_back/cilada_idle_back.yy",},
+  ],
 }
