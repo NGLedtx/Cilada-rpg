@@ -16,6 +16,7 @@
     {"name":"Sons","order":3,"path":"folders/Sons.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"attack","order":3,"path":"folders/Sprites/attack.yy",},
+    {"name":"Tiles","order":4,"path":"folders/Sprites/Tiles.yy",},
     {"name":"idle","order":1,"path":"folders/Sprites/idle.yy",},
     {"name":"walk","order":2,"path":"folders/Sprites/walk.yy",},
   ],

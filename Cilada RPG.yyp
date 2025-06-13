@@ -26,6 +26,7 @@
     {"$GMFolder":"","%Name":"Sons","folderPath":"folders/Sons.yy","name":"Sons","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"attack","folderPath":"folders/Sprites/attack.yy","name":"attack","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Tiles","folderPath":"folders/Sprites/Tiles.yy","name":"Tiles","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"idle","folderPath":"folders/Sprites/idle.yy","name":"idle","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"walk","folderPath":"folders/Sprites/walk.yy","name":"walk","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
@@ -37,6 +38,7 @@
   },
   "name":"Cilada RPG",
   "resources":[
+    {"id":{"name":"ObjPlayer","path":"objects/ObjPlayer/ObjPlayer.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"player_idle_back","path":"sprites/player_idle_back/player_idle_back.yy",},},
     {"id":{"name":"player_idle_front","path":"sprites/player_idle_front/player_idle_front.yy",},},
@@ -44,6 +46,7 @@
     {"id":{"name":"player_walk_back","path":"sprites/player_walk_back/player_walk_back.yy",},},
     {"id":{"name":"player_walk_front","path":"sprites/player_walk_front/player_walk_front.yy",},},
     {"id":{"name":"player_walk_right_left","path":"sprites/player_walk_right_left/player_walk_right_left.yy",},},
+    {"id":{"name":"spr_tileset","path":"tilesets/spr_tileset/spr_tileset.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
