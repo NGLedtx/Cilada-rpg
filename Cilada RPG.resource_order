@@ -16,14 +16,17 @@
     {"name":"Sons","order":3,"path":"folders/Sons.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"attack","order":3,"path":"folders/Sprites/attack.yy",},
-    {"name":"Tiles","order":4,"path":"folders/Sprites/Tiles.yy",},
     {"name":"idle","order":1,"path":"folders/Sprites/idle.yy",},
+    {"name":"Level","order":5,"path":"folders/Sprites/Level.yy",},
+    {"name":"Tiles","order":4,"path":"folders/Sprites/Tiles.yy",},
     {"name":"walk","order":2,"path":"folders/Sprites/walk.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"ObjColisor","order":1,"path":"objects/ObjColisor/ObjColisor.yy",},
     {"name":"player_idle_back","order":2,"path":"sprites/player_idle_back/player_idle_back.yy",},
     {"name":"player_idle_right_left","order":1,"path":"sprites/player_idle_right_left/player_idle_right_left.yy",},
     {"name":"player_walk_back","order":1,"path":"sprites/player_walk_back/player_walk_back.yy",},
     {"name":"player_walk_right_left","order":2,"path":"sprites/player_walk_right_left/player_walk_right_left.yy",},
+    {"name":"spr_grass","order":1,"path":"sprites/spr_grass/spr_grass.yy",},
   ],
 }

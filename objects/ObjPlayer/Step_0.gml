@@ -7,3 +7,6 @@ right = keyboard_check(vk_right);
 //Aplicandonos inputs à velocidade
 velv = (down - up) *vel;
 velh = (right - left) *vel;
+
+//Rodando a máquina de estados 
+roda_estado();
