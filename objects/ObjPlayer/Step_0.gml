@@ -8,5 +8,7 @@ right = keyboard_check(vk_right);
 velv = (down - up) *vel;
 velh = (right - left) *vel;
 
+
+
 //Rodando a máquina de estados 
 roda_estado();
